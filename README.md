@@ -1,10 +1,10 @@
 # École 42 - Projets Académiques
 
-Ce dépôt centralise tous mes projets réalisés dans le cadre de ma formation à l'École 42.
+Bienvenue dans l'index de mes projets réalisés à l'École 42. Chaque entrée ci-dessous est un lien cliquable vers le dépôt du projet ou de l'exercice correspondant, que je créerai et peuplerai.
 
 ---
 
-## 📂 Structure des projets
+## 📂 Structure des Projets Cliquables
 
     École 42
     │
@@ -14,7 +14,28 @@ Ce dépôt centralise tous mes projets réalisés dans le cadre de ma formation 
     │   └── [Rush](https://github.com/DocnasS/Piscine42-Rush)
     │
     ├── PiscineReloaded
-    │   └── ex00, ex01, ex02, ex03, ex04, ex05, ex06, ex07, ex08, ex09, ex10, ex11, ex12, ex13, ex14, ex15, ex16, ex17, ex18, ex19, ex20, ex21
+    │   ├── [ex00](https://github.com/DocnasS/PiscineReloaded-ex00)
+    │   ├── [ex01](https://github.com/DocnasS/PiscineReloaded-ex01)
+    │   ├── [ex02](https://github.com/DocnasS/PiscineReloaded-ex02)
+    │   ├── [ex03](https://github.com/DocnasS/PiscineReloaded-ex03)
+    │   ├── [ex04](https://github.com/DocnasS/PiscineReloaded-ex04)
+    │   ├── [ex05](https://github.com/DocnasS/PiscineReloaded-ex05)
+    │   ├── [ex06](https://github.com/DocnasS/PiscineReloaded-ex06)
+    │   ├── [ex07](https://github.com/DocnasS/PiscineReloaded-ex07)
+    │   ├── [ex08](https://github.com/DocnasS/PiscineReloaded-ex08)
+    │   ├── [ex09](https://github.com/DocnasS/PiscineReloaded-ex09)
+    │   ├── [ex10](https://github.com/DocnasS/PiscineReloaded-ex10)
+    │   ├── [ex11](https://github.com/DocnasS/PiscineReloaded-ex11)
+    │   ├── [ex12](https://github.com/DocnasS/PiscineReloaded-ex12)
+    │   ├── [ex13](https://github.com/DocnasS/PiscineReloaded-ex13)
+    │   ├── [ex14](https://github.com/DocnasS/PiscineReloaded-ex14)
+    │   ├── [ex15](https://github.com/DocnasS/PiscineReloaded-ex15)
+    │   ├── [ex16](https://github.com/DocnasS/PiscineReloaded-ex16)
+    │   ├── [ex17](https://github.com/DocnasS/PiscineReloaded-ex17)
+    │   ├── [ex18](https://github.com/DocnasS/PiscineReloaded-ex18)
+    │   ├── [ex19](https://github.com/DocnasS/PiscineReloaded-ex19)
+    │   ├── [ex20](https://github.com/DocnasS/PiscineReloaded-ex20)
+    │   └── [ex21](https://github.com/DocnasS/PiscineReloaded-ex21)
     │
     ├── DiscoveryPiscine
     │   ├── [Cell00](https://github.com/DocnasS/DiscoveryPiscine-Cell00)
